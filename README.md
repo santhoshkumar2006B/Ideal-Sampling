@@ -165,7 +165,7 @@ plt.tight_layout()
 plt.show()ach the program
 ```
 # Output Waveform
-```
+
 1.Impulse sampling output waveform
 <img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/e678c6bf-53af-4b42-bf2b-a951a5bc254d" />
 2. Natural sampling Output waveform
@@ -173,10 +173,7 @@ plt.show()ach the program
 3. Flat-top sampling
 <img width="1398" height="990" alt="image" src="https://github.com/user-attachments/assets/59851791-ec3c-42b0-b4a8-414e49d4e419" />
 
-```
 # Results
-```
 Impulse sampling gives perfect reconstruction, while natural and flat-top sampling allow approximate reconstruction,
 with flat-top introducing slight amplitude distortion.Attach the output waveform
-```
 
